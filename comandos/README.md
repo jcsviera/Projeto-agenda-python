@@ -4,6 +4,7 @@ py - m venv venv
 .\venv\Scripts\activate
 pip install django
 django-admin startproject project . 
+py manage.py
 
 
 configurar o git 
@@ -18,4 +19,7 @@ git commit -m 'messagem'
 
 
 #cria um novo repositorio no git hub 
-git remote add origin git@github.com:jcsviera/Agenda.git
+git remote add origin 'nomeprojeto'
+git push origin main -u
+
+
