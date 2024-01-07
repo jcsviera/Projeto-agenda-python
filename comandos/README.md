@@ -15,3 +15,7 @@ git config --global init.defaultBranch main
 git init 
 git add . 
 git commit -m 'messagem'
+
+
+#cria um novo repositorio no git hub 
+git remote add origin git@github.com:jcsviera/Agenda_python.git
