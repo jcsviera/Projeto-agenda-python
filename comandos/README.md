@@ -18,4 +18,5 @@ git commit -m 'messagem'
 
 
 #cria um novo repositorio no git hub 
-git remote add origin git@github.com:jcsviera/Agenda_python.git
+git remote add origin git@github.com:jcsviera/Projeto-agenda-python.git
+
