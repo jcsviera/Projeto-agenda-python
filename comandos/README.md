@@ -20,6 +20,7 @@ git commit -m 'messagem'
 
 #cria um novo repositorio no git hub 
 git remote add origin 'nomeprojeto'
+#apenas na primeira vez depois pode usar só o git push
 git push origin main -u
 
 
